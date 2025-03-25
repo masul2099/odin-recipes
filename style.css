@@ -10,7 +10,15 @@ a {
     background-color: rgb(247, 207, 78);
 }
 
-h2 {
+h2, h3 {
     font-family: Arial, Verdana, sans-serif;
     font-style: italic;
+}
+
+h2 {
+   color: gold;
+}
+
+h3 {
+   color: goldenrod;
 }
