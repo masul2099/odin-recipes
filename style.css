@@ -1,9 +1,11 @@
 h1 {
     font-family: Verdana, sans-serif;
+    font-size: 30px;
 }
 
 a {
     font-family: 'Lucida Console', sans-serif;
+    font-size: 15px;
 }
 
 .nav {
