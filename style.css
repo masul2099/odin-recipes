@@ -9,3 +9,8 @@ a {
 .nav {
     background-color: rgb(247, 207, 78);
 }
+
+h2 {
+    font-family: Arial, Verdana, sans-serif;
+    font-style: italic;
+}
