@@ -14,6 +14,12 @@ h1 {
 a {
     font-family: 'Lucida Console', sans-serif;
     font-size: 15px;
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .nav {
