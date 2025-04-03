@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+hr {
+    margin-bottom: 20px;
+}
+
 h1 {
     font-family: Verdana, sans-serif;
     font-size: 30px;
