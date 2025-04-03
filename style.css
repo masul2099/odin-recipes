@@ -8,6 +8,29 @@ hr {
     margin: 20px;
 }
 
+.recipes-list { 
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.recipes-list li { 
+    list-style-type: none;
+    margin: 20px;
+    text-align: center;
+}
+
+.recipes-list li img {
+    display: block;
+    width: 200px;
+    height: auto;
+}
+
+.recipes-list li a {
+    display: block;
+    margin: 10px;
+}
+
 h1 {
     font-family: Verdana, sans-serif;
     font-size: 30px;
@@ -46,7 +69,4 @@ h3 {
 }
 
 
-img {
-    width: 300px;
-    height: auto;
-}
+
