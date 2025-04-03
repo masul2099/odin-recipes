@@ -45,12 +45,6 @@ h3 {
    color: tomato;
 }
 
-p, ul, ol {
-    font-family: Garamond;
-    font-size: 20px;
-    background-color: firebrick;
-    color: orange;
-}
 
 img {
     width: 300px;
