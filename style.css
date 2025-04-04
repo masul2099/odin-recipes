@@ -38,7 +38,12 @@ h1 {
     margin: 16px;
 }
 
-a {
+h1 a {
+    color: black;
+    text-decoration: none;
+}
+
+.recipes-list a {
     font-family: 'Lucida Console', sans-serif;
     font-size: 15px;
     text-decoration: none;
@@ -60,13 +65,37 @@ h2 h3 {
     font-style: italic;
 }
 
-h2 {
-   color: sienna;
+.recipe {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
 }
 
-h3 {
-   color: tomato;
+.recipe img {
+    width: 500px;
 }
+
+h2, h3 {
+    margin: 16px 0 16px 0;
+}
+
+.description p {
+    width: 500px;
+    margin-top: 16px;
+}
+
+.ingredient {
+    margin: 0 60px;
+    width: 700px;
+}
+
+.step {
+    margin: 0 60px;
+    width: auto;
+}
+
+
+
 
 
 
